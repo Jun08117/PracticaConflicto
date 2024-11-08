@@ -1,2 +1,2 @@
-# PracticaConflicto
-Practica 
+Introducción
+Descripción
