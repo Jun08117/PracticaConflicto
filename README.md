@@ -1,3 +1,3 @@
 Introducción
-Descripción
+Caracteristicas
 Finalizar
